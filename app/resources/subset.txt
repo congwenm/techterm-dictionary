@@ -1,0 +1,5 @@
+abstract 抽象的
+abstract base class (ABC)抽象基类
+abstract class 抽象类
+abstraction 抽象、抽象物、抽象性
+access 存取、访问

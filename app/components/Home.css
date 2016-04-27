@@ -12,3 +12,27 @@
 .container a {
   font-size: 1.4rem;
 }
+
+h2 {
+  padding: 40px 10px;
+}
+ul{
+  padding: 40px 20px;
+  height: 700px;
+  width: 600px;
+  overflow: auto;
+
+  border: 1px solid gray;
+}
+li{
+  padding-bottom: 15px;
+}
+tt {
+  font-size: 18px;
+}
+
+input {
+  height: 30px;
+  margin-left: 20px;
+  font-size: 20px;
+}

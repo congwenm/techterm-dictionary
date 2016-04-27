@@ -1,0 +1,9 @@
+.result {
+  font-size: 18px;
+}
+
+.border {
+  border: 20px solid green;
+}
+
+input.query { height: 30px; }

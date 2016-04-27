@@ -1,0 +1,2822 @@
+[
+  {
+    "term": "abstract",
+    "definition": "抽象的"
+  },
+  {
+    "term": "abstract base class (ABC)",
+    "definition": "抽象基类"
+  },
+  {
+    "term": "abstract class",
+    "definition": "抽象类"
+  },
+  {
+    "term": "abstraction",
+    "definition": "抽象、抽象物、抽象性"
+  },
+  {
+    "term": "access",
+    "definition": "存取、访问"
+  },
+  {
+    "term": "access function",
+    "definition": "访问函数"
+  },
+  {
+    "term": "access level",
+    "definition": "访问级别"
+  },
+  {
+    "term": "account",
+    "definition": "账户"
+  },
+  {
+    "term": "action",
+    "definition": "动作"
+  },
+  {
+    "term": "activate",
+    "definition": "激活"
+  },
+  {
+    "term": "active",
+    "definition": "活动的"
+  },
+  {
+    "term": "actual parameter",
+    "definition": "实参"
+  },
+  {
+    "term": "adapter",
+    "definition": "适配器"
+  },
+  {
+    "term": "add",
+    "definition": "-in 插件"
+  },
+  {
+    "term": "address",
+    "definition": "地址"
+  },
+  {
+    "term": "address space",
+    "definition": "地址空间"
+  },
+  {
+    "term": "ADO(ActiveX Data Object)ActiveX",
+    "definition": "数据对象"
+  },
+  {
+    "term": "advanced",
+    "definition": "高级的"
+  },
+  {
+    "term": "aggregation",
+    "definition": "聚合、聚集"
+  },
+  {
+    "term": "algorithm",
+    "definition": "算法"
+  },
+  {
+    "term": "alias",
+    "definition": "别名"
+  },
+  {
+    "term": "align",
+    "definition": "排列、对齐"
+  },
+  {
+    "term": "allocate",
+    "definition": "分配、配置"
+  },
+  {
+    "term": "allocator",
+    "definition": "分配器、配置器"
+  },
+  {
+    "term": "angle bracket",
+    "definition": "尖括号"
+  },
+  {
+    "term": "annotation",
+    "definition": "注解、评注"
+  },
+  {
+    "term": "API (Application Programming Interface)",
+    "definition": "应用(程序)编程接口"
+  },
+  {
+    "term": "appearance",
+    "definition": "外观"
+  },
+  {
+    "term": "append",
+    "definition": "附加"
+  },
+  {
+    "term": "application",
+    "definition": "应用、应用程序"
+  },
+  {
+    "term": "application framework",
+    "definition": "应用程序框架"
+  },
+  {
+    "term": "Approximate String Matching",
+    "definition": "模糊匹配"
+  },
+  {
+    "term": "architecture",
+    "definition": "架构、体系结构"
+  },
+  {
+    "term": "archive file",
+    "definition": "归档文件、存档文件"
+  },
+  {
+    "term": "argument",
+    "definition": "参数。"
+  },
+  {
+    "term": "array",
+    "definition": "数组"
+  },
+  {
+    "term": "arrow operator",
+    "definition": "箭头操作符"
+  },
+  {
+    "term": "assert(ion)",
+    "definition": "断言"
+  },
+  {
+    "term": "assign",
+    "definition": "赋值"
+  },
+  {
+    "term": "assignment",
+    "definition": "赋值、分配"
+  },
+  {
+    "term": "assignment operator",
+    "definition": "赋值操作符"
+  },
+  {
+    "term": "associated",
+    "definition": "相关的、相关联的"
+  },
+  {
+    "term": "asynchronous",
+    "definition": "异步的"
+  },
+  {
+    "term": "attribute",
+    "definition": "特性、属性"
+  },
+  {
+    "term": "authentication service",
+    "definition": "验证服务"
+  },
+  {
+    "term": "authorization",
+    "definition": "授权"
+  },
+  {
+    "term": "background",
+    "definition": "背景、后台(进程)"
+  },
+  {
+    "term": "backup",
+    "definition": "备份"
+  },
+  {
+    "term": "backup device",
+    "definition": "备份设备"
+  },
+  {
+    "term": "backup file",
+    "definition": "备份文件"
+  },
+  {
+    "term": "backward compatible",
+    "definition": "向后兼容、向下兼容"
+  },
+  {
+    "term": "base class",
+    "definition": "基类"
+  },
+  {
+    "term": "base type",
+    "definition": "基类型"
+  },
+  {
+    "term": "batch",
+    "definition": "批处理"
+  },
+  {
+    "term": "BCL (base class library)",
+    "definition": "基类库"
+  },
+  {
+    "term": "Bin Packing",
+    "definition": "装箱问题"
+  },
+  {
+    "term": "binary",
+    "definition": "二进制"
+  },
+  {
+    "term": "binding",
+    "definition": "绑定"
+  },
+  {
+    "term": "bit",
+    "definition": "位"
+  },
+  {
+    "term": "bitmap",
+    "definition": "位图"
+  },
+  {
+    "term": "block",
+    "definition": "块、区块、语句块"
+  },
+  {
+    "term": "boolean",
+    "definition": "布林值(真假值，true或false)"
+  },
+  {
+    "term": "border",
+    "definition": "边框"
+  },
+  {
+    "term": "bounds checking",
+    "definition": "边界检查"
+  },
+  {
+    "term": "boxing",
+    "definition": "装箱、装箱转换"
+  },
+  {
+    "term": "brace (curly brace)",
+    "definition": "大括号、花括号"
+  },
+  {
+    "term": "bracket (square brakcet)",
+    "definition": "中括号、方括号"
+  },
+  {
+    "term": "breakpoint",
+    "definition": "断点"
+  },
+  {
+    "term": "browser applications",
+    "definition": "浏览器应用(程序)"
+  },
+  {
+    "term": "browser",
+    "definition": "-accessible application 可经由浏览器访问的应用程序"
+  },
+  {
+    "term": "bug",
+    "definition": "缺陷错误"
+  },
+  {
+    "term": "build",
+    "definition": "编连(专指编译和连接)"
+  },
+  {
+    "term": "built",
+    "definition": "-in 内建、内置"
+  },
+  {
+    "term": "bus",
+    "definition": "总线"
+  },
+  {
+    "term": "business",
+    "definition": "业务、商务(看场合)"
+  },
+  {
+    "term": "business Logic",
+    "definition": "业务逻辑"
+  },
+  {
+    "term": "business rules",
+    "definition": "业务规则"
+  },
+  {
+    "term": "buttons",
+    "definition": "按钮"
+  },
+  {
+    "term": "by",
+    "definition": "/through 通过"
+  },
+  {
+    "term": "byte",
+    "definition": "位元组(由8 bits组成)"
+  },
+  {
+    "term": "cache",
+    "definition": "高速缓存"
+  },
+  {
+    "term": "calendar",
+    "definition": "日历"
+  },
+  {
+    "term": "Calendrical Calculations",
+    "definition": "日期"
+  },
+  {
+    "term": "call",
+    "definition": "调用"
+  },
+  {
+    "term": "call operator",
+    "definition": "调用操作符"
+  },
+  {
+    "term": "callback",
+    "definition": "回调"
+  },
+  {
+    "term": "candidate key",
+    "definition": "候选键 (for database)"
+  },
+  {
+    "term": "cascading delete",
+    "definition": "级联删除 (for database)"
+  },
+  {
+    "term": "cascading update",
+    "definition": "级联更新 (for database)"
+  },
+  {
+    "term": "casting",
+    "definition": "转型、造型转换"
+  },
+  {
+    "term": "catalog",
+    "definition": "目录"
+  },
+  {
+    "term": "chain",
+    "definition": "链(function calls)"
+  },
+  {
+    "term": "character",
+    "definition": "字符"
+  },
+  {
+    "term": "character format",
+    "definition": "字符格式"
+  },
+  {
+    "term": "character set",
+    "definition": "字符集"
+  },
+  {
+    "term": "check box",
+    "definition": "复选框"
+  },
+  {
+    "term": "check button",
+    "definition": "复选按钮"
+  },
+  {
+    "term": "CHECK constraints CHECK",
+    "definition": "约束 (for database)"
+  },
+  {
+    "term": "checkpoint",
+    "definition": "检查点 (for database)"
+  },
+  {
+    "term": "child class",
+    "definition": "子类"
+  },
+  {
+    "term": "CIL (common intermediate language)",
+    "definition": "通用中间语言、通用中介语言"
+  },
+  {
+    "term": "class",
+    "definition": "类"
+  },
+  {
+    "term": "class declaration",
+    "definition": "类声明"
+  },
+  {
+    "term": "class definition",
+    "definition": "类定义"
+  },
+  {
+    "term": "class derivation list",
+    "definition": "类继承列表"
+  },
+  {
+    "term": "class factory",
+    "definition": "类厂"
+  },
+  {
+    "term": "class hierarchy",
+    "definition": "类层次结构"
+  },
+  {
+    "term": "class library",
+    "definition": "类库"
+  },
+  {
+    "term": "class loader",
+    "definition": "类装载器"
+  },
+  {
+    "term": "class template",
+    "definition": "类模板"
+  },
+  {
+    "term": "class template partial specializations",
+    "definition": "类模板部分特化"
+  },
+  {
+    "term": "class template specializations",
+    "definition": "类模板特化"
+  },
+  {
+    "term": "classification",
+    "definition": "分类"
+  },
+  {
+    "term": "clause",
+    "definition": "子句"
+  },
+  {
+    "term": "cleanup",
+    "definition": "清理、清除"
+  },
+  {
+    "term": "CLI (Common Language Infrastructure)",
+    "definition": "通用语言基础设施"
+  },
+  {
+    "term": "client",
+    "definition": "客户、客户端"
+  },
+  {
+    "term": "client application",
+    "definition": "客户端应用程序"
+  },
+  {
+    "term": "client area",
+    "definition": "客户区"
+  },
+  {
+    "term": "client cursor",
+    "definition": "客户端游标 (for database)"
+  },
+  {
+    "term": "client",
+    "definition": "-server 客户机/服务器、客户端/服务器"
+  },
+  {
+    "term": "clipboard",
+    "definition": "剪贴板"
+  },
+  {
+    "term": "clone",
+    "definition": "克隆"
+  },
+  {
+    "term": "CLS (common language specification)",
+    "definition": "通用语言规范"
+  },
+  {
+    "term": "code access security",
+    "definition": "代码访问安全"
+  },
+  {
+    "term": "code page",
+    "definition": "代码页"
+  },
+  {
+    "term": "COFF (Common Object File Format)",
+    "definition": "通用对象文件格式 collection 集合"
+  },
+  {
+    "term": "COM (Component Object Model)",
+    "definition": "组件对象模型"
+  },
+  {
+    "term": "combo box",
+    "definition": "组合框"
+  },
+  {
+    "term": "command line",
+    "definition": "命令行"
+  },
+  {
+    "term": "comment",
+    "definition": "注释"
+  },
+  {
+    "term": "commit",
+    "definition": "提交 (for database)"
+  },
+  {
+    "term": "communication",
+    "definition": "通讯"
+  },
+  {
+    "term": "compatible",
+    "definition": "兼容"
+  },
+  {
+    "term": "compile time",
+    "definition": "编译期、编译时"
+  },
+  {
+    "term": "compiler",
+    "definition": "编译器"
+  },
+  {
+    "term": "component",
+    "definition": "组件"
+  },
+  {
+    "term": "composite index",
+    "definition": "复合索引、组合索引 (for database)"
+  },
+  {
+    "term": "composite key",
+    "definition": "复合键、组合键 (for database)"
+  },
+  {
+    "term": "composition",
+    "definition": "复合、组合"
+  },
+  {
+    "term": "concept",
+    "definition": "概念"
+  },
+  {
+    "term": "concrete",
+    "definition": "具体的"
+  },
+  {
+    "term": "concrete class",
+    "definition": "具体类"
+  },
+  {
+    "term": "concurrency",
+    "definition": "并发、并发机制"
+  },
+  {
+    "term": "configuration",
+    "definition": "配置、组态"
+  },
+  {
+    "term": "Connected Components",
+    "definition": "连通分支"
+  },
+  {
+    "term": "connection",
+    "definition": "连接 (for database)"
+  },
+  {
+    "term": "connection pooling",
+    "definition": "连接池"
+  },
+  {
+    "term": "console",
+    "definition": "控制台"
+  },
+  {
+    "term": "constant",
+    "definition": "常量"
+  },
+  {
+    "term": "Constrained and Unconstrained Optimization",
+    "definition": "最值问题"
+  },
+  {
+    "term": "constraint",
+    "definition": "约束 (for database)"
+  },
+  {
+    "term": "construct",
+    "definition": "构件、成分、概念、构造（for language）"
+  },
+  {
+    "term": "constructor (ctor)",
+    "definition": "构造函数、构造器"
+  },
+  {
+    "term": "container",
+    "definition": "容器"
+  },
+  {
+    "term": "containment",
+    "definition": "包容"
+  },
+  {
+    "term": "context",
+    "definition": "环境、上下文"
+  },
+  {
+    "term": "control",
+    "definition": "控件"
+  },
+  {
+    "term": "cookie",
+    "definition": ""
+  },
+  {
+    "term": "copy",
+    "definition": "拷贝"
+  },
+  {
+    "term": "CORBA",
+    "definition": "通用对象请求中介架构(Common Object Request Broker Architecture) cover 覆盖、涵盖"
+  },
+  {
+    "term": "create",
+    "definition": "/creation 创建、生成"
+  },
+  {
+    "term": "crosstab query",
+    "definition": "交叉表查询 (for database)"
+  },
+  {
+    "term": "Cryptography",
+    "definition": "密码"
+  },
+  {
+    "term": "CTS (common type system)",
+    "definition": "通用类型系统"
+  },
+  {
+    "term": "cube",
+    "definition": "多维数据集 (for database)"
+  },
+  {
+    "term": "cursor",
+    "definition": "光标"
+  },
+  {
+    "term": "cursor",
+    "definition": "游标 (for database)"
+  },
+  {
+    "term": "custom",
+    "definition": "定制、自定义"
+  },
+  {
+    "term": "data",
+    "definition": "数据"
+  },
+  {
+    "term": "data connection",
+    "definition": "数据连接 (for database)"
+  },
+  {
+    "term": "data dictionary",
+    "definition": "数据字典 (for database)"
+  },
+  {
+    "term": "data file",
+    "definition": "数据文件 (for database)"
+  },
+  {
+    "term": "data integrity",
+    "definition": "数据完整性 (for database)"
+  },
+  {
+    "term": "data manipulation language (DML)",
+    "definition": "数据操作语言(DML) (for database)"
+  },
+  {
+    "term": "data member",
+    "definition": "数据成员、成员变量"
+  },
+  {
+    "term": "data source",
+    "definition": "数据源 (for database)"
+  },
+  {
+    "term": "Data source name (DSN)",
+    "definition": "数据源名称(DSN) (for database)"
+  },
+  {
+    "term": "data structure",
+    "definition": "数据结构"
+  },
+  {
+    "term": "Data Structures",
+    "definition": "基本数据结构"
+  },
+  {
+    "term": "data table",
+    "definition": "数据表 (for database)"
+  },
+  {
+    "term": "data",
+    "definition": "-bound 数据绑定 (for database)"
+  },
+  {
+    "term": "database",
+    "definition": "数据库 (for database)"
+  },
+  {
+    "term": "database catalog",
+    "definition": "数据库目录 (for database)"
+  },
+  {
+    "term": "database diagram",
+    "definition": "数据关系图 (for database)"
+  },
+  {
+    "term": "database file",
+    "definition": "数据库文件 (for database)"
+  },
+  {
+    "term": "database object",
+    "definition": "数据库对象 (for database)"
+  },
+  {
+    "term": "database owner",
+    "definition": "数据库所有者 (for database)"
+  },
+  {
+    "term": "database project",
+    "definition": "数据库工程 (for database)"
+  },
+  {
+    "term": "database role",
+    "definition": "数据库角色 (for database)"
+  },
+  {
+    "term": "database schema",
+    "definition": "数据库模式、数据库架构 (for database)"
+  },
+  {
+    "term": "database script",
+    "definition": "数据库脚本 (for database)"
+  },
+  {
+    "term": "datagram",
+    "definition": "数据报文"
+  },
+  {
+    "term": "dataset",
+    "definition": "数据集 (for database)"
+  },
+  {
+    "term": "dataset",
+    "definition": "数据集 (for database)"
+  },
+  {
+    "term": "DBMS (database management system)",
+    "definition": "数据库管理系统 (for database)"
+  },
+  {
+    "term": "DCOM (distributed COM)",
+    "definition": "分布式COM"
+  },
+  {
+    "term": "dead lock",
+    "definition": "死锁 (for database)"
+  },
+  {
+    "term": "deallocate",
+    "definition": "归还"
+  },
+  {
+    "term": "debug",
+    "definition": "调试"
+  },
+  {
+    "term": "debugger",
+    "definition": "调试器"
+  },
+  {
+    "term": "decay",
+    "definition": "退化"
+  },
+  {
+    "term": "declaration",
+    "definition": "声明"
+  },
+  {
+    "term": "default",
+    "definition": "缺省、默认值"
+  },
+  {
+    "term": "DEFAULT constraint",
+    "definition": "默认约束 (for database)"
+  },
+  {
+    "term": "default database",
+    "definition": "默认数据库 (for database)"
+  },
+  {
+    "term": "default instance",
+    "definition": "默认实例 (for database)"
+  },
+  {
+    "term": "default result set",
+    "definition": "默认结果集 (for database)"
+  },
+  {
+    "term": "defer",
+    "definition": "推迟"
+  },
+  {
+    "term": "definition",
+    "definition": "定义"
+  },
+  {
+    "term": "delegate",
+    "definition": "委托"
+  },
+  {
+    "term": "delegation",
+    "definition": "委托"
+  },
+  {
+    "term": "deploy",
+    "definition": "部署"
+  },
+  {
+    "term": "derived class",
+    "definition": "派生类"
+  },
+  {
+    "term": "design pattern",
+    "definition": "设计模式"
+  },
+  {
+    "term": "destroy",
+    "definition": "销毁"
+  },
+  {
+    "term": "destructor(dtor)",
+    "definition": "析构函数、析构器"
+  },
+  {
+    "term": "device",
+    "definition": "设备"
+  },
+  {
+    "term": "DHTML (dynamic HyperText Markup Language)",
+    "definition": "动态超文本标记语言"
+  },
+  {
+    "term": "dialog",
+    "definition": "对话框"
+  },
+  {
+    "term": "Dictionaries",
+    "definition": "字典"
+  },
+  {
+    "term": "digest",
+    "definition": "摘要"
+  },
+  {
+    "term": "digital",
+    "definition": "数字的"
+  },
+  {
+    "term": "directive (",
+    "definition": "编译)指示符"
+  },
+  {
+    "term": "directory",
+    "definition": "目录"
+  },
+  {
+    "term": "disassembler",
+    "definition": "反汇编器"
+  },
+  {
+    "term": "DISCO (Discovery of Web Services)",
+    "definition": "查找 Web Services"
+  },
+  {
+    "term": "dispatch",
+    "definition": "调度、分派、派发"
+  },
+  {
+    "term": "distributed computing",
+    "definition": "分布式计算"
+  },
+  {
+    "term": "distributed query",
+    "definition": "分布式查询 (for database)"
+  },
+  {
+    "term": "DNA (Distributed interNet Application)",
+    "definition": "分布式网间应用程序"
+  },
+  {
+    "term": "document",
+    "definition": "文档"
+  },
+  {
+    "term": "DOM (Document Object Model)",
+    "definition": "文档对象模型"
+  },
+  {
+    "term": "dot operator (",
+    "definition": "圆)点操作符"
+  },
+  {
+    "term": "double",
+    "definition": "-byte character set (DBCS)双字节字符集(DBCS)"
+  },
+  {
+    "term": "driver",
+    "definition": "驱动(程序)"
+  },
+  {
+    "term": "DTD (document type definition)",
+    "definition": "文档类型定义"
+  },
+  {
+    "term": "dump",
+    "definition": "转储"
+  },
+  {
+    "term": "dump file",
+    "definition": "转储文件"
+  },
+  {
+    "term": "e",
+    "definition": "-business 电子商务"
+  },
+  {
+    "term": "efficiency",
+    "definition": "效率"
+  },
+  {
+    "term": "efficient",
+    "definition": "高效"
+  },
+  {
+    "term": "encapsulation",
+    "definition": "封装"
+  },
+  {
+    "term": "end user",
+    "definition": "最终用户"
+  },
+  {
+    "term": "end",
+    "definition": "-to-end authentication 端对端身份验证"
+  },
+  {
+    "term": "engine",
+    "definition": "引擎"
+  },
+  {
+    "term": "entity",
+    "definition": "实体"
+  },
+  {
+    "term": "enum (enumeration)",
+    "definition": "枚举"
+  },
+  {
+    "term": "enumerators",
+    "definition": "枚举成员、枚举器"
+  },
+  {
+    "term": "equal",
+    "definition": "相等"
+  },
+  {
+    "term": "equality",
+    "definition": "相等性"
+  },
+  {
+    "term": "equality operator",
+    "definition": "等号操作符"
+  },
+  {
+    "term": "error log",
+    "definition": "错误日志 (for database)"
+  },
+  {
+    "term": "escape character",
+    "definition": "转义符、转义字符"
+  },
+  {
+    "term": "escape code",
+    "definition": "转义码"
+  },
+  {
+    "term": "evaluate",
+    "definition": "评估"
+  },
+  {
+    "term": "event",
+    "definition": "事件"
+  },
+  {
+    "term": "event driven",
+    "definition": "事件驱动的"
+  },
+  {
+    "term": "event handler",
+    "definition": "事件处理器"
+  },
+  {
+    "term": "evidence",
+    "definition": "证据"
+  },
+  {
+    "term": "exception",
+    "definition": "异常"
+  },
+  {
+    "term": "exception declaration",
+    "definition": "异常声明"
+  },
+  {
+    "term": "exception handling",
+    "definition": "异常处理、异常处理机制"
+  },
+  {
+    "term": "exception specification",
+    "definition": "异常规范"
+  },
+  {
+    "term": "exception",
+    "definition": "-safe 异常安全的"
+  },
+  {
+    "term": "exit",
+    "definition": "退出"
+  },
+  {
+    "term": "explicit",
+    "definition": "显式"
+  },
+  {
+    "term": "explicit specialization",
+    "definition": "显式特化"
+  },
+  {
+    "term": "explicit transaction",
+    "definition": "显式事务 (for database)"
+  },
+  {
+    "term": "export",
+    "definition": "导出"
+  },
+  {
+    "term": "expression",
+    "definition": "表达式"
+  },
+  {
+    "term": "fat client",
+    "definition": "胖客户端"
+  },
+  {
+    "term": "feature",
+    "definition": "特性、特征"
+  },
+  {
+    "term": "fetch",
+    "definition": "提取"
+  },
+  {
+    "term": "field",
+    "definition": "字段 (for database)"
+  },
+  {
+    "term": "field",
+    "definition": "字段(java)"
+  },
+  {
+    "term": "field length",
+    "definition": "字段长度 (for database)"
+  },
+  {
+    "term": "file",
+    "definition": "文件"
+  },
+  {
+    "term": "filter",
+    "definition": "筛选 (for database)"
+  },
+  {
+    "term": "finalization",
+    "definition": "终结"
+  },
+  {
+    "term": "finalizer",
+    "definition": "终结器"
+  },
+  {
+    "term": "firewall",
+    "definition": "防火墙"
+  },
+  {
+    "term": "flag",
+    "definition": "标记"
+  },
+  {
+    "term": "flash memory",
+    "definition": "闪存"
+  },
+  {
+    "term": "flush",
+    "definition": "刷新"
+  },
+  {
+    "term": "font",
+    "definition": "字体"
+  },
+  {
+    "term": "foreign key (FK)",
+    "definition": "外键(FK) (for database)"
+  },
+  {
+    "term": "form",
+    "definition": "窗体"
+  },
+  {
+    "term": "formal parameter",
+    "definition": "形参"
+  },
+  {
+    "term": "forward declaration",
+    "definition": "前置声明"
+  },
+  {
+    "term": "forward",
+    "definition": "-only 只向前的"
+  },
+  {
+    "term": "forward",
+    "definition": "-only cursor 只向前游标 (for database)"
+  },
+  {
+    "term": "framework",
+    "definition": "框架"
+  },
+  {
+    "term": "full specialization",
+    "definition": "完全特化"
+  },
+  {
+    "term": "function",
+    "definition": "函数"
+  },
+  {
+    "term": "function call operator (",
+    "definition": "即operator ()) 函数调用操作符"
+  },
+  {
+    "term": "function object",
+    "definition": "函数对象"
+  },
+  {
+    "term": "function template",
+    "definition": "函数模板"
+  },
+  {
+    "term": "functionality",
+    "definition": "功能"
+  },
+  {
+    "term": "functor",
+    "definition": "仿函数"
+  },
+  {
+    "term": "GC (Garbage collection)",
+    "definition": "垃圾回收(机制)、垃圾收集(机制)"
+  },
+  {
+    "term": "generate",
+    "definition": "生成"
+  },
+  {
+    "term": "generic",
+    "definition": "泛化的、一般化的、通用的"
+  },
+  {
+    "term": "generic algorithm",
+    "definition": "通用算法"
+  },
+  {
+    "term": "genericity",
+    "definition": "泛型"
+  },
+  {
+    "term": "getter (",
+    "definition": "相对于 setter)取值函数"
+  },
+  {
+    "term": "global",
+    "definition": "全局的"
+  },
+  {
+    "term": "global object",
+    "definition": "全局对象"
+  },
+  {
+    "term": "grant",
+    "definition": "授权 (for database)"
+  },
+  {
+    "term": "group",
+    "definition": "组、群"
+  },
+  {
+    "term": "group box",
+    "definition": "分组框"
+  },
+  {
+    "term": "GUI",
+    "definition": "图形界面"
+  },
+  {
+    "term": "GUID (Globally Unique Identifier)",
+    "definition": "全球唯一标识符"
+  },
+  {
+    "term": "handle",
+    "definition": "句柄"
+  },
+  {
+    "term": "handler",
+    "definition": "处理器"
+  },
+  {
+    "term": "hard disk",
+    "definition": "硬盘"
+  },
+  {
+    "term": "hard",
+    "definition": "-coded 硬编码的"
+  },
+  {
+    "term": "hard",
+    "definition": "-copy 截屏图"
+  },
+  {
+    "term": "hardware",
+    "definition": "硬件"
+  },
+  {
+    "term": "hash table",
+    "definition": "散列表、哈希表"
+  },
+  {
+    "term": "header file",
+    "definition": "头文件"
+  },
+  {
+    "term": "heap",
+    "definition": "堆"
+  },
+  {
+    "term": "help file",
+    "definition": "帮助文件"
+  },
+  {
+    "term": "hierarchical data",
+    "definition": "阶层式数据、层次式数据"
+  },
+  {
+    "term": "hierarchy",
+    "definition": "层次结构、继承体系"
+  },
+  {
+    "term": "high level",
+    "definition": "高阶、高层"
+  },
+  {
+    "term": "hook",
+    "definition": "钩子"
+  },
+  {
+    "term": "Host (application)",
+    "definition": "宿主(应用程序)"
+  },
+  {
+    "term": "hot key",
+    "definition": "热键"
+  },
+  {
+    "term": "HTML (HyperText Markup Language)",
+    "definition": "超文本标记语言"
+  },
+  {
+    "term": "HTTP (HyperText Transfer Protocol)",
+    "definition": "超文本传输协议"
+  },
+  {
+    "term": "HTTP pipeline HTTP",
+    "definition": "管道"
+  },
+  {
+    "term": "hyperlink",
+    "definition": "超链接"
+  },
+  {
+    "term": "icon",
+    "definition": "图标"
+  },
+  {
+    "term": "IDE (Integrated Development Environment)",
+    "definition": "集成开发环境"
+  },
+  {
+    "term": "identifier",
+    "definition": "标识符"
+  },
+  {
+    "term": "IDL (Interface Definition Language)",
+    "definition": "接口定义语言"
+  },
+  {
+    "term": "idle time",
+    "definition": "空闲时间"
+  },
+  {
+    "term": "if and only if",
+    "definition": "当且仅当"
+  },
+  {
+    "term": "IL (Intermediate Language)",
+    "definition": "中间语言、中介语言"
+  },
+  {
+    "term": "image",
+    "definition": "图象"
+  },
+  {
+    "term": "IME",
+    "definition": "输入法"
+  },
+  {
+    "term": "immediate base",
+    "definition": "直接基类"
+  },
+  {
+    "term": "immediate derived",
+    "definition": "直接派生类"
+  },
+  {
+    "term": "immediate updating",
+    "definition": "即时更新 (for database)"
+  },
+  {
+    "term": "implement",
+    "definition": "实现"
+  },
+  {
+    "term": "implementation",
+    "definition": "实现、实现品"
+  },
+  {
+    "term": "implicit",
+    "definition": "隐式"
+  },
+  {
+    "term": "implicit transaction",
+    "definition": "隐式事务 (for database)"
+  },
+  {
+    "term": "import",
+    "definition": "导入"
+  },
+  {
+    "term": "incremental update",
+    "definition": "增量更新 (for database)"
+  },
+  {
+    "term": "Independent Set",
+    "definition": "独立集"
+  },
+  {
+    "term": "index",
+    "definition": "索引 (for database)"
+  },
+  {
+    "term": "infinite loop",
+    "definition": "无限循环"
+  },
+  {
+    "term": "infinite recursive",
+    "definition": "无限递归"
+  },
+  {
+    "term": "information",
+    "definition": "信息"
+  },
+  {
+    "term": "inheritance",
+    "definition": "继承、继承机制"
+  },
+  {
+    "term": "initialization",
+    "definition": "初始化"
+  },
+  {
+    "term": "initialization list",
+    "definition": "初始化列表、初始值列表"
+  },
+  {
+    "term": "initialize",
+    "definition": "初始化"
+  },
+  {
+    "term": "inline",
+    "definition": "内联"
+  },
+  {
+    "term": "inline expansion",
+    "definition": "内联展开"
+  },
+  {
+    "term": "inner join",
+    "definition": "内联接 (for database)"
+  },
+  {
+    "term": "instance",
+    "definition": "实例"
+  },
+  {
+    "term": "instantiated",
+    "definition": "具现化、实体化(常应用于template)"
+  },
+  {
+    "term": "instantiation",
+    "definition": "具现体、具现化实体(常应用于template)"
+  },
+  {
+    "term": "integrate",
+    "definition": "集成、整合"
+  },
+  {
+    "term": "integrity",
+    "definition": "完整性、一致性"
+  },
+  {
+    "term": "integrity constraint",
+    "definition": "完整性约束 (for database)"
+  },
+  {
+    "term": "interacts",
+    "definition": "交互"
+  },
+  {
+    "term": "interface",
+    "definition": "接口"
+  },
+  {
+    "term": "interoperability",
+    "definition": "互操作性、互操作能力"
+  },
+  {
+    "term": "interpreter",
+    "definition": "解释器"
+  },
+  {
+    "term": "introspection",
+    "definition": "自省"
+  },
+  {
+    "term": "invariants",
+    "definition": "不变性"
+  },
+  {
+    "term": "invoke",
+    "definition": "调用"
+  },
+  {
+    "term": "isolation level",
+    "definition": "隔离级别 (for database)"
+  },
+  {
+    "term": "item",
+    "definition": "项、条款、项目"
+  },
+  {
+    "term": "iterate",
+    "definition": "迭代"
+  },
+  {
+    "term": "iteration",
+    "definition": "迭代(回圈每次轮回称为一个iteration)"
+  },
+  {
+    "term": "iterative",
+    "definition": "反复的、迭代的"
+  },
+  {
+    "term": "iterator",
+    "definition": "迭代器"
+  },
+  {
+    "term": "JIT compilation JIT",
+    "definition": "编译即时编译"
+  },
+  {
+    "term": "Job Scheduling",
+    "definition": "工程安排"
+  },
+  {
+    "term": "key",
+    "definition": "键 (for database)"
+  },
+  {
+    "term": "key column",
+    "definition": "键列 (for database)"
+  },
+  {
+    "term": "left outer join",
+    "definition": "左向外联接 (for database)"
+  },
+  {
+    "term": "level",
+    "definition": "阶、层例"
+  },
+  {
+    "term": "library",
+    "definition": "库"
+  },
+  {
+    "term": "lifetime",
+    "definition": "生命期、寿命"
+  },
+  {
+    "term": "Linear Programming",
+    "definition": "线性规划"
+  },
+  {
+    "term": "link",
+    "definition": "连接、链接"
+  },
+  {
+    "term": "linkage",
+    "definition": "连接、链接"
+  },
+  {
+    "term": "linker",
+    "definition": "连接器、链接器"
+  },
+  {
+    "term": "list",
+    "definition": "列表、表、链表"
+  },
+  {
+    "term": "list box",
+    "definition": "列表框"
+  },
+  {
+    "term": "literal constant",
+    "definition": "字面常数"
+  },
+  {
+    "term": "livelock",
+    "definition": "活锁 (for database)"
+  },
+  {
+    "term": "load",
+    "definition": "装载、加载"
+  },
+  {
+    "term": "load balancing",
+    "definition": "负载平衡"
+  },
+  {
+    "term": "loader",
+    "definition": "装载器、载入器"
+  },
+  {
+    "term": "local",
+    "definition": "局部的"
+  },
+  {
+    "term": "local object",
+    "definition": "局部对象"
+  },
+  {
+    "term": "lock",
+    "definition": "锁"
+  },
+  {
+    "term": "log",
+    "definition": "日志"
+  },
+  {
+    "term": "login",
+    "definition": "登录"
+  },
+  {
+    "term": "login security mode",
+    "definition": "登录安全模式 (for database)"
+  },
+  {
+    "term": "lookup table",
+    "definition": "查找表 (for database)"
+  },
+  {
+    "term": "loop",
+    "definition": "循环"
+  },
+  {
+    "term": "loose coupling",
+    "definition": "松散耦合"
+  },
+  {
+    "term": "lvalue",
+    "definition": "左值"
+  },
+  {
+    "term": "machine code",
+    "definition": "机器码、机器代码"
+  },
+  {
+    "term": "macro",
+    "definition": "宏"
+  },
+  {
+    "term": "maintain",
+    "definition": "维护"
+  },
+  {
+    "term": "managed code",
+    "definition": "受控代码、托管代码"
+  },
+  {
+    "term": "Managed Extensions",
+    "definition": "受控扩充件、托管扩展"
+  },
+  {
+    "term": "managed object",
+    "definition": "受控对象、托管对象"
+  },
+  {
+    "term": "manifest",
+    "definition": "清单"
+  },
+  {
+    "term": "many",
+    "definition": "-to-many relationship 多对多关系 (for database)"
+  },
+  {
+    "term": "many",
+    "definition": "-to-one relationship 多对一关系 (for database)"
+  },
+  {
+    "term": "marshal",
+    "definition": "列集"
+  },
+  {
+    "term": "Matching",
+    "definition": "匹配"
+  },
+  {
+    "term": "member",
+    "definition": "成员"
+  },
+  {
+    "term": "member access operator",
+    "definition": "成员取用运算子(有dot和arrow两种)"
+  },
+  {
+    "term": "member function",
+    "definition": "成员函数"
+  },
+  {
+    "term": "member initialization list",
+    "definition": "成员初始值列表"
+  },
+  {
+    "term": "memory",
+    "definition": "内存"
+  },
+  {
+    "term": "memory leak",
+    "definition": "内存泄漏"
+  },
+  {
+    "term": "menu",
+    "definition": "菜单"
+  },
+  {
+    "term": "message",
+    "definition": "消息"
+  },
+  {
+    "term": "message based",
+    "definition": "基于消息的"
+  },
+  {
+    "term": "message loop",
+    "definition": "消息环"
+  },
+  {
+    "term": "message queuing",
+    "definition": "消息队列"
+  },
+  {
+    "term": "metadata",
+    "definition": "元数据"
+  },
+  {
+    "term": "metaprogramming",
+    "definition": "元编程"
+  },
+  {
+    "term": "method",
+    "definition": "方法"
+  },
+  {
+    "term": "micro",
+    "definition": "微"
+  },
+  {
+    "term": "middle tier",
+    "definition": "中间层"
+  },
+  {
+    "term": "middleware",
+    "definition": "中间件"
+  },
+  {
+    "term": "modeling",
+    "definition": "建模"
+  },
+  {
+    "term": "modeling language",
+    "definition": "建模语言"
+  },
+  {
+    "term": "modem",
+    "definition": "调制解调器"
+  },
+  {
+    "term": "modifier",
+    "definition": "修饰字、修饰符"
+  },
+  {
+    "term": "module",
+    "definition": "模块"
+  },
+  {
+    "term": "most derived class",
+    "definition": "最底层的派生类"
+  },
+  {
+    "term": "mouse",
+    "definition": "鼠标"
+  },
+  {
+    "term": "multi",
+    "definition": "-tasking 多任务"
+  },
+  {
+    "term": "multi",
+    "definition": "-thread 多线程"
+  },
+  {
+    "term": "multicast delegate",
+    "definition": "组播委托、多点委托"
+  },
+  {
+    "term": "multithreaded server application",
+    "definition": "多线程服务器应用程序"
+  },
+  {
+    "term": "multiuser",
+    "definition": "多用户"
+  },
+  {
+    "term": "mutable",
+    "definition": "可变的"
+  },
+  {
+    "term": "mutex",
+    "definition": "互斥元、互斥体"
+  },
+  {
+    "term": "named parameter",
+    "definition": "命名参数"
+  },
+  {
+    "term": "named pipe",
+    "definition": "命名管道"
+  },
+  {
+    "term": "namespace",
+    "definition": "名字空间、命名空间"
+  },
+  {
+    "term": "native",
+    "definition": "原生的、本地的"
+  },
+  {
+    "term": "native code",
+    "definition": "本地码、本机码"
+  },
+  {
+    "term": "nested class",
+    "definition": "嵌套类"
+  },
+  {
+    "term": "nested query",
+    "definition": "嵌套查询 (for database)"
+  },
+  {
+    "term": "nested table",
+    "definition": "嵌套表 (for database)"
+  },
+  {
+    "term": "network",
+    "definition": "网络"
+  },
+  {
+    "term": "network card",
+    "definition": "网卡"
+  },
+  {
+    "term": "Network Flow",
+    "definition": "网络流"
+  },
+  {
+    "term": "object",
+    "definition": "对象"
+  },
+  {
+    "term": "object based",
+    "definition": "基于对象的"
+  },
+  {
+    "term": "object model",
+    "definition": "对象模型"
+  },
+  {
+    "term": "object oriented",
+    "definition": "面向对象的"
+  },
+  {
+    "term": "ODBC data source ODBC",
+    "definition": "数据源 (for database)"
+  },
+  {
+    "term": "ODBC driver ODBC",
+    "definition": "驱动程序 (for database)"
+  },
+  {
+    "term": "one",
+    "definition": "-to-many relationship 一对多关系 (for database)"
+  },
+  {
+    "term": "one",
+    "definition": "-to-one relationship 一对一关系 (for database)"
+  },
+  {
+    "term": "operating system (OS)",
+    "definition": "操作系统"
+  },
+  {
+    "term": "operation",
+    "definition": "操作"
+  },
+  {
+    "term": "operator",
+    "definition": "操作符、运算符"
+  },
+  {
+    "term": "option",
+    "definition": "选项"
+  },
+  {
+    "term": "outer join",
+    "definition": "外联接 (for database)"
+  },
+  {
+    "term": "overflow",
+    "definition": "上限溢位(相对于underflow)"
+  },
+  {
+    "term": "overload",
+    "definition": "重载"
+  },
+  {
+    "term": "override",
+    "definition": "覆写、重载、重新定义"
+  },
+  {
+    "term": "package",
+    "definition": "包"
+  },
+  {
+    "term": "packaging",
+    "definition": "打包"
+  },
+  {
+    "term": "palette",
+    "definition": "调色板"
+  },
+  {
+    "term": "parallel",
+    "definition": "并行"
+  },
+  {
+    "term": "parameter",
+    "definition": "参数、形式参数、形参"
+  },
+  {
+    "term": "parameter list",
+    "definition": "参数列表"
+  },
+  {
+    "term": "parameterize",
+    "definition": "参数化"
+  },
+  {
+    "term": "parent class",
+    "definition": "父类"
+  },
+  {
+    "term": "parentheses",
+    "definition": "圆括弧、圆括号"
+  },
+  {
+    "term": "parse",
+    "definition": "解析"
+  },
+  {
+    "term": "parser",
+    "definition": "解析器"
+  },
+  {
+    "term": "part",
+    "definition": "零件、部件"
+  },
+  {
+    "term": "partial specialization",
+    "definition": "局部特化"
+  },
+  {
+    "term": "pass by reference",
+    "definition": "引用传递"
+  },
+  {
+    "term": "pass by value",
+    "definition": "值传递"
+  },
+  {
+    "term": "pattern",
+    "definition": "模式"
+  },
+  {
+    "term": "persistence",
+    "definition": "持久性"
+  },
+  {
+    "term": "pixel",
+    "definition": "像素"
+  },
+  {
+    "term": "placeholder",
+    "definition": "占位符"
+  },
+  {
+    "term": "platform",
+    "definition": "平台"
+  },
+  {
+    "term": "Point Location",
+    "definition": "位置查询"
+  },
+  {
+    "term": "pointer",
+    "definition": "指针"
+  },
+  {
+    "term": "polymorphism",
+    "definition": "多态"
+  },
+  {
+    "term": "pooling",
+    "definition": "池化"
+  },
+  {
+    "term": "pop up",
+    "definition": "弹出式"
+  },
+  {
+    "term": "port",
+    "definition": "端口"
+  },
+  {
+    "term": "postfix",
+    "definition": "后缀"
+  },
+  {
+    "term": "precedence",
+    "definition": "优先序(通常用于运算子的优先执行次序)"
+  },
+  {
+    "term": "prefix",
+    "definition": "前缀"
+  },
+  {
+    "term": "preprocessor",
+    "definition": "预处理器"
+  },
+  {
+    "term": "primary key (PK)",
+    "definition": "主键(PK) (for database)"
+  },
+  {
+    "term": "primary table",
+    "definition": "主表 (for database)"
+  },
+  {
+    "term": "primitive type",
+    "definition": "原始类型"
+  },
+  {
+    "term": "print",
+    "definition": "打印"
+  },
+  {
+    "term": "printer",
+    "definition": "打印机"
+  },
+  {
+    "term": "procedure",
+    "definition": "过程"
+  },
+  {
+    "term": "process",
+    "definition": "进程"
+  },
+  {
+    "term": "program",
+    "definition": "程序"
+  },
+  {
+    "term": "programmer",
+    "definition": "程序员"
+  },
+  {
+    "term": "programming",
+    "definition": "编程、程序设计"
+  },
+  {
+    "term": "progress bar",
+    "definition": "进度指示器"
+  },
+  {
+    "term": "project",
+    "definition": "项目、工程"
+  },
+  {
+    "term": "property",
+    "definition": "属性"
+  },
+  {
+    "term": "protocol",
+    "definition": "协议"
+  },
+  {
+    "term": "pseudo code",
+    "definition": "伪码"
+  },
+  {
+    "term": "qualified",
+    "definition": "合格的"
+  },
+  {
+    "term": "qualifier",
+    "definition": "修饰符"
+  },
+  {
+    "term": "quality",
+    "definition": "质量"
+  },
+  {
+    "term": "queue",
+    "definition": "队列"
+  },
+  {
+    "term": "radio button",
+    "definition": "单选按钮"
+  },
+  {
+    "term": "random number",
+    "definition": "随机数"
+  },
+  {
+    "term": "Random Number Generation",
+    "definition": "随机数生成"
+  },
+  {
+    "term": "range",
+    "definition": "范围、区间"
+  },
+  {
+    "term": "rank",
+    "definition": "等级"
+  },
+  {
+    "term": "raw",
+    "definition": "未经处理的"
+  },
+  {
+    "term": "re",
+    "definition": "-direction 重定向"
+  },
+  {
+    "term": "readOnly",
+    "definition": "只读"
+  },
+  {
+    "term": "record",
+    "definition": "记录 (for database)"
+  },
+  {
+    "term": "recordset",
+    "definition": "记录集 (for database)"
+  },
+  {
+    "term": "recursion",
+    "definition": "—— 递归"
+  },
+  {
+    "term": "recursive",
+    "definition": "递归"
+  },
+  {
+    "term": "refactoring",
+    "definition": "重构"
+  },
+  {
+    "term": "refer",
+    "definition": "引用、参考"
+  },
+  {
+    "term": "reference",
+    "definition": "引用、参考"
+  },
+  {
+    "term": "reflection",
+    "definition": "反射"
+  },
+  {
+    "term": "refresh data",
+    "definition": "刷新数据 (for database)"
+  },
+  {
+    "term": "register",
+    "definition": "寄存器"
+  },
+  {
+    "term": "regular expression",
+    "definition": "正则表达式"
+  },
+  {
+    "term": "relational database",
+    "definition": "关系数据库"
+  },
+  {
+    "term": "remote",
+    "definition": "远程"
+  },
+  {
+    "term": "remote request",
+    "definition": "远程请求"
+  },
+  {
+    "term": "represent",
+    "definition": "表述，表现"
+  },
+  {
+    "term": "resolution",
+    "definition": "解析过程"
+  },
+  {
+    "term": "resolve",
+    "definition": "解析、决议"
+  },
+  {
+    "term": "result set",
+    "definition": "结果集 (for database)"
+  },
+  {
+    "term": "retrieve data",
+    "definition": "检索数据"
+  },
+  {
+    "term": "return",
+    "definition": "返回"
+  },
+  {
+    "term": "return type",
+    "definition": "返回类型"
+  },
+  {
+    "term": "return value",
+    "definition": "返回值"
+  },
+  {
+    "term": "revoke",
+    "definition": "撤销"
+  },
+  {
+    "term": "right outer join",
+    "definition": "右向外联接 (for database)"
+  },
+  {
+    "term": "robust",
+    "definition": "健壮"
+  },
+  {
+    "term": "robustness",
+    "definition": "健壮性"
+  },
+  {
+    "term": "roll back",
+    "definition": "回滚 (for database)"
+  },
+  {
+    "term": "roll forward",
+    "definition": "前滚 (for database)"
+  },
+  {
+    "term": "routine",
+    "definition": "例程"
+  },
+  {
+    "term": "row",
+    "definition": "行 (for database)"
+  },
+  {
+    "term": "rowset",
+    "definition": "行集 (for database)"
+  },
+  {
+    "term": "RPC (remote procedure call)RPC(",
+    "definition": "远程过程调用)"
+  },
+  {
+    "term": "runtime",
+    "definition": "执行期、运行期、执行时、运行时"
+  },
+  {
+    "term": "rvalue",
+    "definition": "右值"
+  },
+  {
+    "term": "Satisfiability",
+    "definition": "可满足性"
+  },
+  {
+    "term": "save",
+    "definition": "保存"
+  },
+  {
+    "term": "savepoint",
+    "definition": "保存点 (for database)"
+  },
+  {
+    "term": "SAX (Simple API for XML)",
+    "definition": ""
+  },
+  {
+    "term": "scalable",
+    "definition": "可伸缩的、可扩展的"
+  },
+  {
+    "term": "schedule",
+    "definition": "调度"
+  },
+  {
+    "term": "scheduler",
+    "definition": "调度程序"
+  },
+  {
+    "term": "schema",
+    "definition": "模式、纲目结构"
+  },
+  {
+    "term": "scope",
+    "definition": "作用域、生存空间"
+  },
+  {
+    "term": "screen",
+    "definition": "屏幕"
+  },
+  {
+    "term": "scroll bar",
+    "definition": "滚动条"
+  },
+  {
+    "term": "SDK (Software Development Kit)",
+    "definition": "软件开发包"
+  },
+  {
+    "term": "sealed class",
+    "definition": "密封类"
+  },
+  {
+    "term": "search",
+    "definition": "查找"
+  },
+  {
+    "term": "Searching",
+    "definition": "查找"
+  },
+  {
+    "term": "semantics",
+    "definition": "语义"
+  },
+  {
+    "term": "sequential container",
+    "definition": "序列式容器"
+  },
+  {
+    "term": "serial",
+    "definition": "串行"
+  },
+  {
+    "term": "serialization",
+    "definition": "/serialize 序列化"
+  },
+  {
+    "term": "server",
+    "definition": "服务器、服务端"
+  },
+  {
+    "term": "session",
+    "definition": "会话 (for database)"
+  },
+  {
+    "term": "Set and String Problems",
+    "definition": "集合与串的问题"
+  },
+  {
+    "term": "Set Cover",
+    "definition": "集合覆盖"
+  },
+  {
+    "term": "Set Data Structures",
+    "definition": "集合"
+  },
+  {
+    "term": "Set Packing",
+    "definition": "集合配置"
+  },
+  {
+    "term": "setter",
+    "definition": "设值函数"
+  },
+  {
+    "term": "side effect",
+    "definition": "副作用"
+  },
+  {
+    "term": "signature",
+    "definition": "签名"
+  },
+  {
+    "term": "single",
+    "definition": "-threaded 单线程"
+  },
+  {
+    "term": "slider",
+    "definition": "滑块"
+  },
+  {
+    "term": "slot",
+    "definition": "槽"
+  },
+  {
+    "term": "SMTP (Simple Mail Transfer Protocol)",
+    "definition": "简单邮件传输协议"
+  },
+  {
+    "term": "snapshot",
+    "definition": "截屏图"
+  },
+  {
+    "term": "snapshot",
+    "definition": "快照 (for database)"
+  },
+  {
+    "term": "SOAP (simple object access protocol)",
+    "definition": "简单对象访问协议"
+  },
+  {
+    "term": "software",
+    "definition": "软件"
+  },
+  {
+    "term": "Sorting",
+    "definition": "排序"
+  },
+  {
+    "term": "source code",
+    "definition": "源码、源代码"
+  },
+  {
+    "term": "specialization",
+    "definition": "特化"
+  },
+  {
+    "term": "specification",
+    "definition": "规范、规格"
+  },
+  {
+    "term": "splitter",
+    "definition": "切分窗口"
+  },
+  {
+    "term": "SQL (Structured Query Language)",
+    "definition": "结构化查询语言 (for database)"
+  },
+  {
+    "term": "stack",
+    "definition": "栈、堆栈"
+  },
+  {
+    "term": "standard library",
+    "definition": "标准库"
+  },
+  {
+    "term": "standard template library",
+    "definition": "标准模板库"
+  },
+  {
+    "term": "stateless",
+    "definition": "无状态的"
+  },
+  {
+    "term": "statement",
+    "definition": "语句、声明"
+  },
+  {
+    "term": "static cursor",
+    "definition": "静态游标 (for database)"
+  },
+  {
+    "term": "static SQL statements",
+    "definition": "静态SQL语句 (for database)"
+  },
+  {
+    "term": "status bar",
+    "definition": "状态条"
+  },
+  {
+    "term": "stored procedure",
+    "definition": "存储过程 (for database)"
+  },
+  {
+    "term": "stream",
+    "definition": "流"
+  },
+  {
+    "term": "string",
+    "definition": "字符串"
+  },
+  {
+    "term": "String Matching",
+    "definition": "模式匹配"
+  },
+  {
+    "term": "stub",
+    "definition": "存根"
+  },
+  {
+    "term": "subobject",
+    "definition": "子对象"
+  },
+  {
+    "term": "subquery",
+    "definition": "子查询 (for database)"
+  },
+  {
+    "term": "subscript operator",
+    "definition": "下标操作符"
+  },
+  {
+    "term": "support",
+    "definition": "支持"
+  },
+  {
+    "term": "suspend",
+    "definition": "挂起"
+  },
+  {
+    "term": "symbol",
+    "definition": "记号"
+  },
+  {
+    "term": "syntax",
+    "definition": "语法"
+  },
+  {
+    "term": "system databases",
+    "definition": "系统数据库 (for database)"
+  },
+  {
+    "term": "system tables",
+    "definition": "系统表 (for database)"
+  },
+  {
+    "term": "table",
+    "definition": "表 (for database)"
+  },
+  {
+    "term": "table",
+    "definition": "-level constraint 表级约束 (for database)"
+  },
+  {
+    "term": "target",
+    "definition": "标的,目标"
+  },
+  {
+    "term": "task switch",
+    "definition": "工作切换"
+  },
+  {
+    "term": "TCP (Transport Control Protocol)",
+    "definition": "传输控制协议"
+  },
+  {
+    "term": "template",
+    "definition": "模板"
+  },
+  {
+    "term": "temporary object",
+    "definition": "临时对象"
+  },
+  {
+    "term": "temporary table",
+    "definition": "临时表 (for database)"
+  },
+  {
+    "term": "text",
+    "definition": "文本"
+  },
+  {
+    "term": "Text Compression",
+    "definition": "压缩"
+  },
+  {
+    "term": "text file",
+    "definition": "文本文件"
+  },
+  {
+    "term": "thin client",
+    "definition": "瘦客户端"
+  },
+  {
+    "term": "third",
+    "definition": "-party 第三方"
+  },
+  {
+    "term": "thread",
+    "definition": "线程"
+  },
+  {
+    "term": "thread",
+    "definition": "-safe 线程安全的"
+  },
+  {
+    "term": "throw",
+    "definition": "抛出、引发(常指发出一个exception)"
+  },
+  {
+    "term": "trace",
+    "definition": "跟踪"
+  },
+  {
+    "term": "transaction",
+    "definition": "事务 (for database)"
+  },
+  {
+    "term": "transaction log",
+    "definition": "事务日志 (for database)"
+  },
+  {
+    "term": "transaction rollback",
+    "definition": "事务回滚 (for database)"
+  },
+  {
+    "term": "traverse",
+    "definition": "遍历"
+  },
+  {
+    "term": "trigger",
+    "definition": "触发器 (for database)"
+  },
+  {
+    "term": "type",
+    "definition": "类型"
+  },
+  {
+    "term": "UDDI(Universary Description",
+    "definition": ", Discovery and Integration)统一描述、查询与集成 UML (unified modeling language)统一建模语言"
+  },
+  {
+    "term": "unary function",
+    "definition": "单参函数"
+  },
+  {
+    "term": "unary operator",
+    "definition": "一元操作符"
+  },
+  {
+    "term": "unboxing",
+    "definition": "拆箱、拆箱转换"
+  },
+  {
+    "term": "underflow",
+    "definition": "下限溢位(相对于overflow)"
+  },
+  {
+    "term": "Unicode",
+    "definition": "统一字符编码标准，采用双字节对字符进行编码"
+  },
+  {
+    "term": "Union query",
+    "definition": "联合查询 (for database)"
+  },
+  {
+    "term": "UNIQUE constraints UNIQUE",
+    "definition": "约束 (for database)"
+  },
+  {
+    "term": "unique index",
+    "definition": "唯一索引 (for database)"
+  },
+  {
+    "term": "unmanaged code",
+    "definition": "非受控代码、非托管代码"
+  },
+  {
+    "term": "unmarshal",
+    "definition": "散集"
+  },
+  {
+    "term": "unqualified",
+    "definition": "未经限定的、未经修饰的"
+  },
+  {
+    "term": "URI (Uniform Resource identifier)",
+    "definition": "统一资源标识符"
+  },
+  {
+    "term": "URL (Uniform Resource Locator)",
+    "definition": "统一资源定位器"
+  },
+  {
+    "term": "user",
+    "definition": "用户"
+  },
+  {
+    "term": "user interface",
+    "definition": "用户界面"
+  },
+  {
+    "term": "value types",
+    "definition": "值类型"
+  },
+  {
+    "term": "variable",
+    "definition": "变量"
+  },
+  {
+    "term": "vector",
+    "definition": "向量(一种容器，有点类似array)"
+  },
+  {
+    "term": "vendor",
+    "definition": "厂商"
+  },
+  {
+    "term": "viable",
+    "definition": "可行的"
+  },
+  {
+    "term": "video",
+    "definition": "视频"
+  },
+  {
+    "term": "view",
+    "definition": "视图 (for database)"
+  },
+  {
+    "term": "view",
+    "definition": "视图"
+  },
+  {
+    "term": "virtual function",
+    "definition": "虚函数"
+  },
+  {
+    "term": "virtual machine",
+    "definition": "虚拟机"
+  },
+  {
+    "term": "virtual memory",
+    "definition": "虚拟内存"
+  },
+  {
+    "term": "Web Services web",
+    "definition": "服务"
+  },
+  {
+    "term": "WHERE clause WHERE",
+    "definition": "子句 (for database)"
+  },
+  {
+    "term": "wildcard characters",
+    "definition": "通配符字符 (for database)"
+  },
+  {
+    "term": "wildcard search",
+    "definition": "通配符搜索 (for database)"
+  },
+  {
+    "term": "window",
+    "definition": "窗口"
+  },
+  {
+    "term": "window function",
+    "definition": "窗口函数"
+  },
+  {
+    "term": "window procedure",
+    "definition": "窗口过程"
+  },
+  {
+    "term": "Windows authentication Windows",
+    "definition": "身份验证"
+  },
+  {
+    "term": "wizard",
+    "definition": "向导"
+  },
+  {
+    "term": "word",
+    "definition": "单词"
+  },
+  {
+    "term": "write enable",
+    "definition": "写启用 (for database)"
+  },
+  {
+    "term": "write",
+    "definition": "-only 只写"
+  },
+  {
+    "term": "WSDL (Web Service Description Language)Web Service",
+    "definition": "描述语言"
+  },
+  {
+    "term": "XML (eXtensible Markup Language)",
+    "definition": "可扩展标记语言"
+  },
+  {
+    "term": "XML Message Interface (XMI) XML",
+    "definition": "消息接口"
+  },
+  {
+    "term": "XSD (XML Schema Definition) XML",
+    "definition": "模式定义语言"
+  },
+  {
+    "term": "XSL (eXtensible Stylesheet Language)",
+    "definition": "可扩展样式表语言"
+  },
+  {
+    "term": "XSLT (eXtensible Stylesheet Language Transformation)",
+    "definition": "可扩展样式表语言转换"
+  },
+  {
+    "term": "xxx based",
+    "definition": "基于xxx的"
+  },
+  {
+    "term": "xxx oriented",
+    "definition": "面向xxx"
+  }
+]
