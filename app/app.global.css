@@ -35,3 +35,14 @@ a:hover {
   text-decoration: none;
   cursor: pointer;
 }
+b {
+  background: rgba(150, 150, 50, 0.7);
+}
+tt {
+  font-family: sans-serif;
+}
+button {
+  font-size: 20px;
+  padding: 10px;
+  cursor: auto;
+}
