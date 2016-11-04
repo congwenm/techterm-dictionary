@@ -1,14 +1,31 @@
 import React from 'react';
 import styles from './Dictionary.css';
-const dictionary = require('../resources/output.json');
+const enChDictionary = require('../resources/output.json');
+const chEnDictionary = require('../resources/ch-en.json');
+const dictionaries = {
+  true: enChDictionary,
+  false: chEnDictionary
+}
+
+function initState(mode) {
+  mode = !mode;
+  const dictionary = dictionaries[mode];
+  return {
+    enChMode: mode,
+    results: dictionary,
+    filtered: dictionary,
+    query: ''
+  }
+}
 
 export default class Dictionary extends React.Component {
   constructor() {
     super();
     this.state = {
-      results: dictionary,
-      filtered: dictionary,
-      query: '',
+      enChMode: true,
+      results: enChDictionary,
+      filtered: enChDictionary,
+      query: ''
     }
   }
 
@@ -43,9 +60,12 @@ export default class Dictionary extends React.Component {
   }
 
   render () {
-    window.Dictionary = this;
+    window.enChDictionary = this;
 
     return <div className="border">
+      <button onClick={() => this.setState(initState(this.state.enChMode))}>
+        {this.state.enChMode ? 'Translate Chinese' : 'Translate English'}
+      </button>
       <label style={{padding: 40}}>Enter your term:
         <input className="query" onChange={this.filterResult.bind(this)}/>
       </label>
